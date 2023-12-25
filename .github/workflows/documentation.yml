@@ -17,3 +17,4 @@ jobs:
           with:
             working-dir: .
             indention: 3
+            git-push: true
